@@ -1,0 +1,6 @@
+{
+    "irc_auth": "authname password", 
+    "pb_devkey": "devkey", 
+    "pb_password": "password", 
+    "pb_username": "username"
+}
